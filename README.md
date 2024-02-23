@@ -4,13 +4,14 @@ I'm a passionate full-stack web developer with a strong foundation in front-end 
 
 ## 🔧 Skills
 
-- **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Front-end:** React, Bootstrap
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Front-end:** HTML, CSS, Tailwind, Bootstrap, React
 - **Back-end:** Node.js, Express
-- **Databases:** MongoDB
+- **Databases:** MongoDB, Postgres
 - **Authentication:** JWT, oAUth
 - **Version Control:** Git, GitHub
-- **Extra:** Zod
+- **DevOps:** Docker,AWS(EC2,S3,Cloudfront)
+- **Extra:** Zod, Mongoose
 
 ## 🚀 Projects
 
@@ -29,9 +30,9 @@ with the help of graph. Also it has the functionality of randomizing the array w
 
 ## 🌱 I'm Currently Looking Forward Learn.
 
-- TypeScript ,Nextjs, ORM(Prisma).
-- Docker and containerization.
+- Nextjs, ORM(Prisma).
 - GraphQL for API development.
+- MonoRepo and TurboRepo
 
 ## 📫 Let's Connect
 
