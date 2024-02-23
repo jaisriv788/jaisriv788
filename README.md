@@ -8,7 +8,7 @@ I'm a passionate full-stack web developer with a strong foundation in front-end 
 - **Front-end:** HTML, CSS, Tailwind, Bootstrap, React
 - **Back-end:** Node.js, Express
 - **Databases:** MongoDB, Postgres
-- **Authentication:** JWT, oAUth
+- **Authentication:** JWT, oAuth
 - **Version Control:** Git, GitHub
 - **DevOps:** Docker,AWS(EC2,S3,Cloudfront)
 - **Extra:** Zod, Mongoose
