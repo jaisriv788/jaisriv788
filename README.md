@@ -5,7 +5,7 @@ I'm a passionate full-stack web developer with a strong foundation in front-end 
 ## 🔧 Skills
 
 - **Languages:** JavaScript (ES6+), TypeScript
-- **Front-end:** HTML, CSS, Tailwind, Bootstrap, React
+- **Front-end:** HTML, CSS, Tailwind, React
 - **Back-end:** Node.js, Express
 - **Databases:** MongoDB, Postgres
 - **Authentication:** JWT, oAuth
