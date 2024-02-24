@@ -11,7 +11,7 @@ I'm a passionate full-stack web developer with a strong foundation in front-end 
 - **Authentication:** JWT, oAuth
 - **Version Control:** Git, GitHub
 - **DevOps:** Docker,AWS(EC2,S3,Cloudfront)
-- **Extra:** Zod, Mongoose
+- **Extra:** Zod, Mongoose(ODM), Prisma(ORM), Monorepo(Turborepo)
 
 ## 🚀 Projects
 
@@ -30,9 +30,8 @@ with the help of graph. Also it has the functionality of randomizing the array w
 
 ## 🌱 I'm Currently Looking Forward Learn.
 
-- Nextjs, ORM(Prisma).
+- Nextjs.
 - GraphQL for API development.
-- MonoRepo and TurboRepo
 
 ## 📫 Let's Connect
 
