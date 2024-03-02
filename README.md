@@ -30,7 +30,7 @@ with the help of graph. Also it has the functionality of randomizing the array w
 
 ## 🌱 I'm Currently Looking Forward Learn.
 
-- Nextjs.
+- Nextjs, WebRTC, TRPC.
 - GraphQL for API development.
 
 ## 📫 Let's Connect
