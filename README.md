@@ -35,7 +35,7 @@ with the help of graph. Also it has the functionality of randomizing the array w
 
 ## 📫 Let's Connect
 
-- GitHub: [jaisriv788](https://github.com/jaisriv788)
-- LinkedIn: [Jai Srivastava](https://www.linkedin.com/in/jai-srivastava-a4b174191/)
+- [GitHub](https://github.com/jaisriv788)
+- [LinkedIn](https://www.linkedin.com/in/jai-srivastava-a4b174191/)
 
 Feel free to reach out if you want to collaborate on a project, have a tech discussion, or just want to connect!
