@@ -6,11 +6,11 @@ I'm a passionate full-stack web developer with a strong foundation in front-end 
 
 - **Languages:** JavaScript (ES6+), TypeScript
 - **Front-end:** HTML, CSS, Tailwind, React
-- **Back-end:** Node.js, Express
+- **Back-end:** Node.js, Express, Hono
 - **Databases:** MongoDB, Postgres
 - **Authentication:** JWT, oAuth
 - **Version Control:** Git, GitHub
-- **DevOps:** Docker,AWS(EC2,S3,Cloudfront)
+- **DevOps:** Docker,AWS(EC2,S3,Cloudfront), Cloudflare(workers)
 - **Extra:** Zod, Mongoose(ODM), Prisma(ORM), Monorepo(Turborepo)
 
 ## 🚀 Projects
