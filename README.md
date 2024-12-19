@@ -5,7 +5,7 @@ I'm a passionate full-stack web developer with a strong foundation in front-end 
 ## 🔧 Skills
 
 - **Languages:** JavaScript (ES6+), TypeScript
-- **Front-end:** HTML, CSS, Tailwind, React
+- **Front-end:** HTML, CSS, Tailwind, React, Nextjs
 - **Back-end:** Node.js, Express, Hono
 - **Databases:** MongoDB, Postgres
 - **Authentication:** JWT, oAuth
@@ -30,7 +30,7 @@ with the help of graph. Also it has the functionality of randomizing the array w
 
 ## 🌱 I'm Currently Looking Forward Learn.
 
-- Nextjs, WebRTC, TRPC.
+- WebRTC, TRPC.
 - GraphQL for API development.
 
 ## 📫 Let's Connect
