@@ -11,7 +11,7 @@ I'm a passionate full-stack web developer with a strong foundation in front-end 
 - **Authentication:** JWT, oAuth
 - **Version Control:** Git, GitHub
 - **DevOps:** Docker,AWS(EC2,S3,Cloudfront), Cloudflare(workers)
-- **Extra:** Zod, Mongoose(ODM), Prisma(ORM), Monorepo(Turborepo)
+- **Extra:** Zod, Mongoose(ODM), Prisma(ORM), Monorepo(Turborepo), Solidity
 
 ## 🚀 Projects
 
